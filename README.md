@@ -115,14 +115,14 @@ Správa dokumentace by měla být v souladu s pravidly nastavenými mezi členy 
 
 ## Zvolené architektury
 
-//TODO: udělat ADRka a napárovat
-
-- Monolitic Multi-tier Architecture - MMTA
-  - [ADR o využítí MMTA](./dokumentace/EDA/rozhodnutí/2-celkova-architektura/ "ADR o využítí EDA")
-- Service Oriented Architecture - SOA
-  - [ADR o využítí SOA](./dokumentace/SOA/rozhodnutí/2-celkova-architektura/ "ADR o využítí SOA")
+- [Monolitic Multi-tier Architecture - MMTA](./documents/architectures/MMTA/README.md "ADR o využítí EDA")
+- [Service Oriented Architecture - SOA](./documents/architectures/SOA/README.md "ADR o využítí SOA")
 
 ### Výsledná (vybraná) architektura
 
 - Monolitická vícevrstvá architektura
   - [finální ADR o výběru architektury](./dokumentace/EDA/rozhodnutí/2-celkova-architektura/)
+
+Pro daný projekt bude lepší monolitickou architektura, především kvůli blížící se hlavní sezóně a potřebě rychlého vývoje a nasazení. Monolitická architektura umožňuje rychlejší a jednodušší vývoj, což je klíčové pro dosažení krátkodobých cílů.
+
+Mikroservisová architektura však nabízí lepší škálovatelnost a flexibilitu, její vývoj a nasazení by pravděpodobně trvaly déle a byly by komplexnější, což by mohlo ohrozit včasný start systému před hlavní sezónou.
