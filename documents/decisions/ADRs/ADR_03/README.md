@@ -1,9 +1,15 @@
-# ADR_final
+# [<-](./../../README.md "Zpět") ADR_03 - Rozhodnutí o ukládání obrázků a větších souborů
 
 ## Status
 
-## Context
+Přijato 
 
-## Decision
+## Kontext
 
-## Consequences
+## Rozhodnutí
+
+## Důsledky
+
+### Pozitiva
+
+### Negativa

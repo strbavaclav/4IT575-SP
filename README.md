@@ -1,4 +1,5 @@
 # 4IT575 - Semestrální práce
+
 - Tento repositář obsahjuje dokumenty, které se týkají semestrální práce v rámci předmětu 4IT575 - Softwarové architektury
 - Software Architecture Document (SAD)
 
