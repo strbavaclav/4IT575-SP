@@ -6,26 +6,26 @@ Přijato
 
 ## Kontext
 
-Projekt má přísný časový rámec pro dokončení před hlavní sezónou a vyžaduje integraci s několika existujícími systémy. Je potřeba rychle vyvíjet a nasazovat.
+Vzhledem k přísnému časovému rámci pro dokončení projektu před hlavní sezónou a potřebě integrace s několika existujícími systémy, je nezbytné najít rovnováhu mezi rychlostí vývoje, snadností nasazení a dlouhodobou udržitelností projektu. Hledáme řešení, které umožní efektivní vývoj a nasazení, ale zároveň zohledňuje možné budoucí rozšíření a úpravy.
 
 ## Rozhodnutí
 
-Rozhodnutí: Bylo rozhodnuto vyvinout systém jako monolitickou aplikaci s použitím webových technologií pro frontend a backend.
+Po zvážení různých architektonických přístupů bylo rozhodnuto vyvinout systém jako monolitickou aplikaci. Tento přístup bude využívat současné webové technologie jak pro frontend, tak pro backend. Toto rozhodnutí je motivováno potřebou rychlého vývoje a snadného nasazení v rámci našeho omezeného časového rámce.
 
 ## Důsledky
 
 ### Pozitiva
 
-- Rychlejší vývoj a nasazení, jelikož všechny komponenty jsou integrovány do jediné aplikace.
+- Zrychlení vývoje a nasazení díky integraci všech komponent do jedné aplikace.
 
-- Snazší správa a ladění, protože existuje pouze jeden vývojový a runtime kontext.
+- Jednodušší správa a ladění s jediným vývojovým a runtime kontextem.
 
-- Menší počáteční náklady na infrastrukturu a vývoj ve srovnání s mikroservisovou architekturou.
+- Nižší počáteční náklady na infrastrukturu a vývoj ve srovnání s mikroservisovou architekturou.
 
 ### Negativa
 
-- Omezená škálovatelnost a flexibilita ve srovnání s mikroservisovou architekturou.
+- Omezená škálovatelnost a flexibilita oproti mikroservisové architektuře.
 
-- Vyšší riziko celkového selhání systému při chybě v jakékoliv jeho části.
+- Vyšší riziko celkového selhání systému v případě chyby v jakékoliv jeho části.
 
-- Potenciální komplikace při budoucích pokusech o rozdělení aplikace na menší služby.
+- Možné komplikace při budoucích úpravách nebo při rozdělování aplikace na menší služby.

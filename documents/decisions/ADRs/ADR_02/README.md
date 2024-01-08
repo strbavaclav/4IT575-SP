@@ -1,4 +1,6 @@
-# [<-](./../../README.md "Zpět") ADR_02 - Rozhodnutí o výběru typu databáze
+# [<-](./../../README.md "Zpět") ADR_02 - Rozhodnutí o výběru typu databáze MySQL
+
+## Datum: 10. 1 . 2023
 
 ## Status
 
@@ -6,11 +8,11 @@ Přijato
 
 ## Kontext
 
-Systém vyžaduje spolehlivé, bezpečné a dobře strukturované uložení dat, které podporuje komplexní dotazy.
+Pro naši aplikaci je zásadní mít databázi, která je schopna zpracovávat a uchovávat data efektivně, bezpečně a spolehlivě. Bylo důležité vybrat řešení, které podporuje komplexní dotazy a nabízí robustní strukturování dat, aby se vyhovělo potřebám našeho systému. Zároveň však aby bylo rychle nasaditelné a kompatibilní s webovými technologiemi.
 
 ## Rozhodnutí
 
-Rozhodli jsme se použít MySQL jako naši databázovou platformu.
+Po pečlivém zvážení dostupných možností a zhodnocení našich potřeb jsme se rozhodli pro výběr MySQL jako naší primární databázové platformy. Toto rozhodnutí bylo založeno na jeho schopnosti zvládat komplexní dotazy, jeho výkonnosti v transakcích, a na jeho rozsáhlé podpoře a stabilitě.
 
 ## Důsledky
 
