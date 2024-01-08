@@ -1,4 +1,4 @@
-# [<-](../../README.md "Zpět na přehled systému") Datazy na zákazníka
+# [<-](../../README.md "Zpět na přehled systému") Dotazy na zákazníka
 
 //TODO: doplnit otázky a opravit linky
 
@@ -74,3 +74,12 @@
 ### 13. Měl by systém umožňovat pokročilé funkce jako je self-check-in/check-out?
 
 - Tato služba by byla určitě přínosem, ale není to pro nás momentálně prioritou.
+
+### 14. XXX
+
+- systém drží stav pokoje (rezervovaný, uklizený apod.)
+automaticky vyhodnocuje kdy je potřeba uklidit (je 12h, ve 14h má přijít host, ale stav pokoje je - neuklizený) - v tu chvíli zasílá automaticky notifikaci na aktivní uklízečky (takže se to nedělá jakoby přes UI, ale systém vyhodnocuje sám
+
+### 15. Otázka na vozíky jak mají fungovat
+
+- přihlásíš se pod nějakou rolí do systému a například na kliknutí pokud máě práva ti to dovolí otevřít ten pokoj
