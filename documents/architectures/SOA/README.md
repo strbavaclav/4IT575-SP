@@ -42,6 +42,20 @@ Potřeba správy komunikace a koordinace mezi službami.
 
 Každá služba musí být nasazena a spravována samostatně.
 
+## Functionalita systému
+
+V tomto pohledu je zobrazena funkcionalita rezervačního systému hotelu.
+
+## UML Diagram užití
+
+## Katalog komponent
+
+### název
+
+popis
+
+- část
+
 ## Sovisející
 
 - [Pohledy](./views/README.md)

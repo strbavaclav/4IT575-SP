@@ -26,6 +26,20 @@ Veškeré informace, včetně detailů o pokojích, rezervacích a stavu úklidu
 
 - Větší riziko výpadku celého systému při chybě v jedné části aplikace.
 
+## Functionalita systému
+
+V tomto pohledu je zobrazena funkcionalita rezervačního systému hotelu.
+
+## UML Diagram užití
+
+## Katalog komponent
+
+### název
+
+popis
+
+- část
+
 ## Sovisející
 
 - [Pohledy](./views/README.md)
