@@ -13,6 +13,7 @@
 
 - [Popis aplikace](#popis-aplikace "Popis aplikace")
 - [Otázky na zákazníka](./documents/QA/README.md)
+- [Výsledek analýzy zadání](#analýza)
 - [Dokumentace architektury č. 1 - Monolitická vícevrstvá architektura](./documents/architectures/MMTA/README.md)
 - [Dokumentace architektury č. 2 - SOA](./documents/architectures/SOA/README.md)
 - [Architektonická rozhodnutí - ADRs](./documents/decisions/README.md)
@@ -43,6 +44,8 @@ Velká společnost zabývající se rezervacemi hotelů chce vytvořit novou gen
 - Společnost také hodně investuje do nejmodernějších technologií, jako jsou chytré zámky pokojů, které se otevírají pomocí mobilního telefonu.
 
 - Zájem pouze o špičkový trh.
+
+## Analýza
 
 ### Driving requirements
 
