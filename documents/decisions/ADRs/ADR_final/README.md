@@ -1,4 +1,4 @@
-# ADR_final: ...
+# ADR_final
 
 ## Status
 
