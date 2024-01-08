@@ -1,4 +1,4 @@
-# Datazy na zákazníka
+# [<-](../../README.md "Zpět na přehled systému") Datazy na zákazníka
 
 //TODO: opravit md
 
