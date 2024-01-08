@@ -1,5 +1,6 @@
 # 4IT575 - Semestrální práce
-Tento repositář obsahjuje dokumenty, které se týkají semestrální práce v rámci předmětu 4IT575 - Softwarové architektury
+- Tento repositář obsahjuje dokumenty, které se týkají semestrální práce v rámci předmětu 4IT575 - Softwarové architektury
+- Software Architecture Document (SAD)
 
 ## Autoři práce
 
@@ -96,9 +97,11 @@ Velká společnost zabývající se rezervacemi hotelů chce vytvořit novou gen
 - Nová verze klientské aplikace rezervačního systému
 - Backend pro obsluhu klientských aplikací
 
-### Zdroj
+### Zdroje
 
-PÍSEK, Slavoj, 2021. Zadání seminární práce z předmětu 4IT575 – Softwarové Architektury. 1. prosinec 2023.
+- PÍSEK, Slavoj, 2021. Zadání seminární práce z předmětu 4IT575 – Softwarové Architektury. 1. prosinec 2023.
+- [Architecture Decision Record Template by Michael Nygard on GitHub](https://github.com/joelparkerhenderson/architecture-decision-record/tree/main/locales/en/templates/decision-record-template-by-michael-nygard)
+- [Software Architecture Documentation Template on SEI CMU Wiki](https://wiki.sei.cmu.edu/confluence/display/SAD/Software+Architecture+Documentation+Template)
 
 ## Správa dokumentace
 
@@ -112,4 +115,3 @@ Správa dokumentace by měla být v souladu s pravidly nastavenými mezi členy 
   - [ADR o využítí MMTA](./dokumentace/EDA/rozhodnutí/2-celkova-architektura/ "ADR o využítí EDA")
 - Service Oriented Architecture - SOA
   - [ADR o využítí SOA](./dokumentace/SOA/rozhodnutí/2-celkova-architektura/ "ADR o využítí SOA")
-  
