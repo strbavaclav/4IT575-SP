@@ -12,8 +12,6 @@
 
 ## Obsah repositáře
 
-//TODO: obsah doplnit
-
 - [Popis aplikace](#popis-aplikace "Popis aplikace")
 - [Otázky na zákazníka](./documents/QA/README.md)
 - [Výsledek analýzy zadání](#analýza)
