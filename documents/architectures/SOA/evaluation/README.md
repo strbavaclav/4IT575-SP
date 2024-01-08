@@ -1,6 +1,4 @@
-[< Zpět](../ "Zpět na přehled systému")
-
-# Hodnocení architektury SOA
+# [<-](../ "Zpět") Hodnocení architektury SOA
 
 ## Struktura hodnocení
 

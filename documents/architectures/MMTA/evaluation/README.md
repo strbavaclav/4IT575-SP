@@ -1,6 +1,4 @@
-[< Zpět](../ "Zpět na přehled systému")
-
-# Hodnocení architektury MMTA
+# [<-](../ "Zpět") Hodnocení architektury MMTA
 
 ## Struktura hodnocení
 

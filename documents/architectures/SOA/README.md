@@ -34,6 +34,14 @@ Architektura SOA může přinést vyšší počáteční komplexnost, zejména v
 
 Správa a monitoring takto rozděleného systému může být náročnější, jelikož je třeba sledovat výkon a dostupnost každé individuální služby. Vyžaduje to efektivní nástroje a schopnosti pro správu distribuovaných systémů.
 
+### Správa distribuovaných systémů
+
+Potřeba správy komunikace a koordinace mezi službami.
+
+### Složitější nasazení
+
+Každá služba musí být nasazena a spravována samostatně.
+
 ## Sovisející
 
 - [Pohledy](./views/README.md)
