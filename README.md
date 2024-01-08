@@ -1,11 +1,19 @@
 # 4IT575 - Semestrální práce
 Tento repositář obsahjuje dokumenty, které se týkají semestrální práce v rámci předmětu 4IT575 - Softwarové architektury
 
+## Autoři práce
+
+- Martin Cháb
+- Jiří Kinkor
+- David Václavík
+- Václav Štrba
+
 ## Obsah repositáře
 
 - [Popis aplikace](#popis-aplikace "Popis aplikace")
-- [Dokumentace architektury č. 1 - Monolitická vícevrstvá architektura](./documents/architectures/MMTA/README.md "Dokumentace monolitické vícevrstvé architektury")
-- [Dokumentace architektury č. 2 - SOA](./documents/architectures/SOA/README.md "")
+- [Otázky na zákazníka](./documents/QA/README.md)
+- [Dokumentace architektury č. 1 - Monolitická vícevrstvá architektura](./documents/architectures/MMTA/README.md)
+- [Dokumentace architektury č. 2 - SOA](./documents/architectures/SOA/README.md)
 - [Architektonická rozhodnutí - ADRs](./documents/decisions/README.md)
 
 ## Popis aplikace
@@ -35,7 +43,53 @@ Velká společnost zabývající se rezervacemi hotelů chce vytvořit novou gen
 
 - Zájem pouze o špičkový trh.
 
+### Driving requirements
 
+- **Hlavní sezóna se blíží** –> Implementace do začátku sezóny (čas)
+
+- **Inovace** –> investice do nejnovějších technologií na trhu (moderní technologie)
+
+### Explicitní požadavky
+
+- Registrace přes web, mobilní telefon, telefonní hovor nebo při příchodu.
+
+- Rezervace standardních, deluxe nebo suite pokojů.
+
+- Možnost vybrat konkrétní pokoj s prohlížením obrázků a umístění v hotelu.
+
+- Udržování stavů pokoje (rezervovaný, volný, připravený k úklidu atd.).
+
+- Správa budoucích rezervací – možnost stornovat
+
+- Automatizované přiřazování úklidových úkolů.
+
+- Integrace s chytrými zámky pro regulaci přístupu úklidového personálu.
+
+- Integrace s existujícím rezervačním systémem (kde je i platební brána).
+
+- Systém založený na webových technologiích.
+
+- Ochrana osobních údajů hostů, shoda s GDPR.
+
+- Kompatibilita s existující infrastrukturou.
+
+- Spuštění systému před začátkem hlavní sezóny.
+
+- Možnost přepínat mezi jazykem a měnou v systému.
+
+### Implicitní požadavky
+
+- Intuitivní a snadné použití systému pro hosty a zaměstnance.
+
+- Schopnost systému zvládnout nárůst rezervací a hostů v průběhu času.
+
+- Vysoká dostupnost a spolehlivost systému, zejména během hlavní sezóny.
+
+- Snadná údržba a aktualizace systému, dlouhodobá podpora.
+
+- Zabezpečení platebních a osobních údajů při online transakcích.
+
+- Možnost budoucích rozšíření a přidání nových funkcí.
 
 ### Aplikace v systému
 
@@ -52,7 +106,10 @@ Správa dokumentace by měla být v souladu s pravidly nastavenými mezi členy 
 
 ## Zvolené architektury
 
+//TODO:
+
 - Monolitic Multi-tier Architecture - MMTA
-    - [ADR o využítí MMTA](./dokumentace/EDA/rozhodnutí/2-celkova-architektura/ "ADR o využítí EDA")
+  - [ADR o využítí MMTA](./dokumentace/EDA/rozhodnutí/2-celkova-architektura/ "ADR o využítí EDA")
 - Service Oriented Architecture - SOA
-    - [ADR o využítí SOA](./dokumentace/SOA/rozhodnutí/2-celkova-architektura/ "ADR o využítí SOA")
+  - [ADR o využítí SOA](./dokumentace/SOA/rozhodnutí/2-celkova-architektura/ "ADR o využítí SOA")
+  
