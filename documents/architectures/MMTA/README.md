@@ -1,0 +1,1 @@
+# Dokumentace monolitické vícevrstvé architektury 
