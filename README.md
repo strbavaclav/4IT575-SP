@@ -11,6 +11,8 @@
 
 ## Obsah repositáře
 
+//TODO: obsah doplnit
+
 - [Popis aplikace](#popis-aplikace "Popis aplikace")
 - [Otázky na zákazníka](./documents/QA/README.md)
 - [Výsledek analýzy zadání](#analýza)
@@ -112,9 +114,14 @@ Správa dokumentace by měla být v souladu s pravidly nastavenými mezi členy 
 
 ## Zvolené architektury
 
-//TODO:
+//TODO: udělat ADRka a napárovat
 
 - Monolitic Multi-tier Architecture - MMTA
   - [ADR o využítí MMTA](./dokumentace/EDA/rozhodnutí/2-celkova-architektura/ "ADR o využítí EDA")
 - Service Oriented Architecture - SOA
   - [ADR o využítí SOA](./dokumentace/SOA/rozhodnutí/2-celkova-architektura/ "ADR o využítí SOA")
+
+### Výsledná (vybraná) architektura
+
+- Monolitická vícevrstvá architektura
+  - [finální ADR o výběru architektury](./dokumentace/EDA/rozhodnutí/2-celkova-architektura/)

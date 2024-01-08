@@ -1,0 +1,1 @@
+//TODO: udělat seznam všech ADR a nalinkovat

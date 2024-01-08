@@ -1,6 +1,6 @@
 # [<-](../../README.md "Zpět na přehled systému") Datazy na zákazníka
 
-//TODO: opravit md
+//TODO: doplnit otázky a opravit linky
 
 ## Obsah
 
