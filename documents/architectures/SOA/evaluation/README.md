@@ -10,7 +10,7 @@
 
 ## Metodika
 
-Pro hodnocení architektury bude využita ordinální stupnice ([zobrazená níže](#ordinalni-stupnice "Tabulka s ordinální stupnicí")), kdy tato tabulka obsahuje slovní ohodnocení a číslené ohodnocení, přičemž číselné ohodnocení bude využito pro posuzování toho, jak zvolená softwarová architektura / řešení splňuje specifickou charakteristiku.
+Pro hodnocení architektury bude využita ordinální stupnice, kdy tato tabulka obsahuje slovní ohodnocení a číslené ohodnocení, přičemž číselné ohodnocení bude využito pro posuzování toho, jak zvolená softwarová architektura / řešení splňuje specifickou charakteristiku.
 
 Samotné hodnocení bude uvedeno v tabulce, která bude obsahovat jednotlivé charakteristiky softwarových architektur, dále u každé charakteristiky budou informace, jak moc vybráná architektura / řešení splňuje danou vlastnost na škále 1 - 5 (5 je nejlepší ohodnocení), dále je zde váha důležitosti vlastnostni architektury, protože ne všechny jsou pro aplikaci vhodné, tedy výsledek je součin čísleného ohodnocení a váhy. Také hodnocení každé charakteristiky je doplněno o slovní ohodnocení.
 
