@@ -24,6 +24,8 @@ Souhrn výsledků hodnocení charakteristik bude doplněn o slovní ohodnocení 
 
 ## Hodnocení
 
+//TODO: ohodnotit SOA
+
 | Charakteristika    | Splňuje | Váha |  Výsledek  |
 |--------------------|---------|------|------------|
 | Dostupnost         |    5    |  10% |    0,5     |
@@ -53,4 +55,4 @@ Souhrn výsledků hodnocení charakteristik bude doplněn o slovní ohodnocení 
 | Použitelnost       |    3    |  50% |    1,5     |
 | Souhrn             |    -    |   -  | 46 / 51,25 |
 
-## Souhrn
+## Závěr

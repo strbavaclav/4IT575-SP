@@ -53,7 +53,7 @@ Souhrn výsledků hodnocení charakteristik bude doplněn o slovní ohodnocení 
 | Použitelnost       |    5    |  50% |    2.5     |
 | Souhrn             |    -    |   -  | 47.95/51.25|
 
-## Souhrn
+## Závěr
 
 Na základě poskytnutých hodnot v tabulce hodnocení lze říci, že zvolená architektura dosahuje celkově vysokého ohodnocení. Vlastnosti jako aktualizovatelnost, instalovatelnost, lokalizace, udržovatelnost, a přenositelnost jsou hodnoceny jako výborné, což ukazuje, že systém je dobře navržen z hlediska budoucího rozvoje a adaptace na různé prostředí. Další kritické vlastnosti jako jsou elasticita, archivovatelnost, autentizace a autorizace dostaly plný počet bodů s váhou 100%, což naznačuje, že systém je velmi dobře připraven na zabezpečení a právní požadavky, což je nezbytné pro systém hotelu, který drží informace o svých zákaznících.
 
