@@ -48,13 +48,34 @@ V tomto pohledu je zobrazena funkcionalita rezervačního systému hotelu.
 
 ## UML Diagram užití
 
-## Katalog komponent
+![Use case](./assets/useCase_diagram.png "Diagram případu užití")
 
-### název
+### Vysvětlivky diagramu
 
-popis
+- **Use case (případ užití)** - funkce systému - kroužek
+- **Actor (aktér)** - osoba / systém, který komikuje s modelovaným systémem - postava
+- **Ohraničení systému** - vymezení modelovaného systému - kontejner
 
-- část
+## Funkcionality
+
+- **UC1** - Registrace uživatele: Umožňuje hostům vytvořit si účet v systému.
+- **UC2** - Přihlášení uživatele: Umožňuje již registrovaným uživatelům přihlásit se do systému.
+- **UC3** - Odhlášení uživatele: Umožňuje uživatelům odhlásit se ze systému.
+- **UC4** - Prohlédnutí pokoje: Hosté mohou prohlížet dostupné pokoje a jejich detaily.
+- **UC5** - Výběr typu pokoje: Hosté si mohou vybrat typ pokoje, který chtějí rezervovat.
+- **UC6** - Výběr konkrétního pokoje: Hosté si mohou vybrat a rezervovat konkrétní pokoj.
+- **UC7** - Rezervace pokoje: Hosté mohou provést rezervaci vybraného pokoje.
+- **UC8** - Storno rezervace: Umožňuje hostům stornovat již provedenou rezervaci.
+- **UC9** - Správa rezervací: Zaměstnanci mohou spravovat rezervace, včetně jejich úprav a storna.
+- **UC10** - Zobrazení stavu pokoje: Systém zobrazuje aktuální stav pokoje.
+- **UC11** - Změna stavu pokoje: Zaměstnanci mohou měnit stav pokoje (např. z 'volný' na 'rezervovaný').
+- **UC12** - Self check-in / check-out: Umožňuje hostům provést check-in nebo check-out bez asistence personálu.
+- **UC13** - Změna jazyka / měny: Hosté mohou změnit jazyk a měnu zobrazení v systému.
+- **UC14** - Zařízení úklidu pokoje: Systém umožňuje zaměstnancům spravovat procesy úklidu.
+- **UC15** - Provedení platby: Integrace s existujícím rezervačním systémem pro zpracování plateb.
+- **UC16** - Správa registrací: Umožňuje zaměstnancům spravovat registrace uživatelů.
+- **UC17** - Odemknutí / zamknutí pokoje: Systém umožňuje zaměstnancům ovládat zámky pokojů.
+- **UC18** - Správa systému: Administrátoři mohou spravovat a konfigurovat celý rezervační systém.
 
 ## Sovisející
 
