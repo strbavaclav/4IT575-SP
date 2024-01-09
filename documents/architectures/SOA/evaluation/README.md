@@ -1,20 +1,6 @@
 # [<-](../ "Zpět") Hodnocení architektury SOA
 
-//TODO: naplnit celou stránku
-
-## Struktura hodnocení
-
-- [Metodika](#metodika "Metodika hodnocení")
-- [Hodnocení](#hodnocení "Hodnocení architektury")
-- [Souhrn hodnocení](#souhrn "Souhrn hodnocení")
-
-## Metodika
-
-Pro hodnocení architektury bude využita ordinální stupnice, kdy tato tabulka obsahuje slovní ohodnocení a číslené ohodnocení, přičemž číselné ohodnocení bude využito pro posuzování toho, jak zvolená softwarová architektura / řešení splňuje specifickou charakteristiku.
-
-Samotné hodnocení bude uvedeno v tabulce, která bude obsahovat jednotlivé charakteristiky softwarových architektur, dále u každé charakteristiky budou informace, jak moc vybráná architektura / řešení splňuje danou vlastnost na škále 1 - 5 (5 je nejlepší ohodnocení), dále je zde váha důležitosti vlastnostni architektury, protože ne všechny jsou pro aplikaci vhodné, tedy výsledek je součin čísleného ohodnocení a váhy. Také hodnocení každé charakteristiky je doplněno o slovní ohodnocení.
-
-Souhrn výsledků hodnocení charakteristik bude doplněn o slovní ohodnocení architektury, které bude uvedeno v [souhrnu](#souhrn "Souhrn hodnocení") tohoto dokumentu.
+## Hodnoty hodnocení
 
 | Slovní ohodnocení | Číselné ohodnocení |
 |-------------------|--------------------|
@@ -58,3 +44,5 @@ Souhrn výsledků hodnocení charakteristik bude doplněn o slovní ohodnocení 
 | Souhrn             |    -    |   -  | 46 / 51,25 |
 
 ## Závěr
+
+//TODO: napsat závěr vyhodnocení
