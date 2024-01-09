@@ -10,7 +10,7 @@ V tomto pohledu jsou zobrazeny komponenty rezervačního systému hotelu dle arc
 
 ## Katalog komponent
 
-//TOOD: popsat diagram
+//TODO: popsat diagram
 
 ### název
 
