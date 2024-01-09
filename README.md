@@ -119,7 +119,7 @@ Správa dokumentace by měla být v souladu s pravidly nastavenými mezi členy 
 ### Výsledná (vybraná) architektura
 
 - Monolitická vícevrstvá architektura
-  - [finální ADR o výběru architektury](./dokumentace/EDA/rozhodnutí/2-celkova-architektura/)
+  - [finální ADR o výběru architektury](./documents//decisions/ADRs/ADR_final/README.md)
 
 Pro daný projekt bude lepší monolitickou architektura, především kvůli blížící se hlavní sezóně a potřebě rychlého vývoje a nasazení. Monolitická architektura umožňuje rychlejší a jednodušší vývoj, což je klíčové pro dosažení krátkodobých cílů.
 
