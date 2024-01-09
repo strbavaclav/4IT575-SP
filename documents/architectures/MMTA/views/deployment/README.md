@@ -6,7 +6,7 @@ V tomto pohledu je zobrazena infrastruktura rezervačního systému hotelu dle a
 
 ## UML Diagram nasazení
 
-![Deployment diagram](./../../assets/deployment_diagram_MMTA.png "Diagram případu užití")
+![Deployment diagram](./../../assets/deployment_diagram_MMTA.png "Diagram nasazení")
 
 //TODO: popsat diagram
 

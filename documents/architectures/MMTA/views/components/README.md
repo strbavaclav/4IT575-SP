@@ -6,7 +6,7 @@ V tomto pohledu jsou zobrazeny komponenty rezervačního systému hotelu dle arc
 
 ## UML Diagram komponent
 
-//TODO: nahrát diagram
+![Komponent diagram](./../../assets/component_diagram_MMTA.png "Diagram komponent")
 
 ## Katalog komponent
 
