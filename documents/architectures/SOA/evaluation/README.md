@@ -1,5 +1,7 @@
 # [<-](../ "Zpět") Hodnocení architektury SOA
 
+//TODO: naplnit celou stránku
+
 ## Struktura hodnocení
 
 - [Metodika](#metodika "Metodika hodnocení")

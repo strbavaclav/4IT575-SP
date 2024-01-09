@@ -2,6 +2,8 @@
 
 ## Struktura hodnocení
 
+//TODO přepsat strukturu hodnocení
+
 - [Metodika](#metodika "Metodika hodnocení")
 - [Hodnocení](#hodnocení "Hodnocení architektury")
 - [Souhrn hodnocení](#souhrn "Souhrn hodnocení")
