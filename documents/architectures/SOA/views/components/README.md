@@ -1,4 +1,4 @@
-# Component View
+# [<-](./../README.md "Zpět") Component View
 
 V tomto pohledu jsou zobrazeny komponenty rezervačního systému hotelu dle architektury SOA (Service orieanted architecture).
 
