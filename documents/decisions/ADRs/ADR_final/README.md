@@ -20,7 +20,7 @@ Po zvážení různých architektonických přístupů bylo rozhodnuto vyvinout 
 
 - Jednodušší správa a ladění s jediným vývojovým a runtime kontextem.
 
-- Nižší počáteční náklady na infrastrukturu a vývoj ve srovnání s mikroservisovou architekturou.
+- Nižší počáteční náklady na infrastrukturu a vývoj ve srovnání s SOA architekturou.
 
 ### Negativa
 
