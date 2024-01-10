@@ -62,7 +62,7 @@
 ### 11. Může i host manipulovat se svou rezervací (Například přesunout či stornovat)?
 
 - Stornovat může za poplatek pomocí našeho systému. Přesouvat nemůže.
-- Storno rezervace bych nechal pouze po telefonu – aby musel provést zaměstnanec.
+- Stornovat je možné také telefonicky.
 
 ### 12. Měl by systém umožňovat pokročilé funkce jako je self-check-in/check-out?
 
@@ -70,4 +70,4 @@
 
 ### 13. Otázka na vozíky jak mají fungovat
 
-- přihlásíš se pod nějakou rolí do systému a například na kliknutí pokud má práva ti to dovolí otevřít ten pokoj
+- Přihlásíš se pod nějakou rolí do systému a například na kliknutí pokud má práva ti to dovolí otevřít ten pokoj
