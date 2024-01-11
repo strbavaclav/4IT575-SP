@@ -1,4 +1,4 @@
 # [<-](../README.md "Zpět") Pohledy SOAD
 
-- [Komponenty](./components/README.md)
-- [Umístění](./deployment/README.md)
+- [Diagram komponent](./components/README.md)
+- [Diagram nasazení](./deployment/README.md)

@@ -80,6 +80,6 @@ V tomto pohledu je zobrazena funkcionalita rezervačního systému hotelu.
 ## Sovisející
 
 - [Pohledy](./views/README.md)
-  - [Komponenty](./views/components/README.md)
-  - [Umístění](./views/deployment/README.md)
+  - [Diagram komponent](./views/components/README.md)
+  - [Diagram nasazeni](./views/deployment/README.md)
 - [Hodnocení architektury](./evaluation/README.md)
